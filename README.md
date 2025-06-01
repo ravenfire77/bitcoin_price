@@ -19,8 +19,8 @@ You can find the code for this project [here]
 
 File overview:
 
-* `prediction.ipynb` - a Jupyter notebook that contains the code to predict Bitcoin prices
-* `sentiment.ipynb` - a Jupyter notebook that creates our wikipedia edit dataset.
+* `bitcoin_price_predictor.py` - Code to predict Bitcoin prices
+* `wikipedia_sentiment_analyzer.py` - Code that creates our wikipedia edit dataset.
 
 # Local Setup
 

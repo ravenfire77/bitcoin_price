@@ -15,7 +15,7 @@ This project can be extended to other cryptocurrencies as well.
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/bitcoin_price)
+You can find the code for this project [here]
 
 File overview:
 
